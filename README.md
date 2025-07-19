@@ -1,0 +1,2 @@
+# Edunexus
+Flutter project.
