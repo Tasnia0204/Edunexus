@@ -1,2 +1,3 @@
-# Edunexus
-Flutter project.
+# edunexus
+
+A new Flutter project.

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315525448942",
+    "project_id": "edunexus-c19cc",
+    "storage_bucket": "edunexus-c19cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315525448942:android:78a0b318e91db22dc1dfff",
+        "android_client_info": {
+          "package_name": "com.example.edunexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9Qkts94WCk_8-ZCPlMs23FgMXVlIu6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
