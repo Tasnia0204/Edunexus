@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351192651265",
+    "project_id": "edunexus-testing",
+    "storage_bucket": "edunexus-testing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351192651265:android:9580addab567ae399bd200",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAk-zu0inAM0XEUr3e8EAGUu64TX8zWIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
